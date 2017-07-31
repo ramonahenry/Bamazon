@@ -1,0 +1,26 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Amazon type app for eduction purposes only",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonahenry/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonahenry/Bamazon/issues"
+  },
+  "homepage": "https://github.com/ramonahenry/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "express": "^4.15.3",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0"
+  }
+}
